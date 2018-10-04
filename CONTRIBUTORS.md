@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Petar Stojanovski](https://github.com/stojanovskip)
+- Place: Skopje, Macedonia
+- Bio: Software developer C# (.NET)
+- Github: [stojanovskip](https://github.com/stojanovskip)
